@@ -1,0 +1,5 @@
+ABOUT       关于
+CALC          打开计算器
+FOLLOW         关注开发者
+NOTEPAD         打开记事本
+TOOLS         修复工具

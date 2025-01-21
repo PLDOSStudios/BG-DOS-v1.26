@@ -1,0 +1,12 @@
+BB00000000000B          GGGGGGGGGGG                     D0DDDDDDDDDDDDD            00000000000            SSSSSSSSSSSSSS
+ B0BBBBBBBBB00B       G0GGG      GGGG                   D0DDDDDDDDDDDDDD        O0OOOOOOOOOOOO0O         SS0SSSSSSSSSSS
+ B0B        B0B      G0G           G0G                  D0D           D0D       O0O           O0O       SS0S
+ B0B        B0B      G0G           G0G                  D0D           D0D       O0O           O0O       S0S
+ B0B        B0B      G0G                                D0D           D0D       O0O           O0O       S0S
+ B0BBBBBBBBBB0B      G0G    GGGGGGGGG    |++++++++++|   D0D           D0D       O0O           O0O       SSSSSSSSSSSSS
+ B0BBBBBBBBB00B      G0G    0000000G0G   |++++++++++|   D0D           D0D       O0O           O0O        SSSSSSSSSSSS0
+ B0B        B0B      G0G           G0G                  D0D           D0D       O0O           O0O                   S0S
+ B0B        B0B      G0G           G0G                  D0D           D0D       O0O           O0O                   S0S
+ B0B        B0B      G0G           G0G                  D0D           D0D       O0O           O0O                   S0S
+BB0BBBBBBBBB0B        GOGGGGGGGGGGG                     D0DDDDDDDDDDDDD0D       O0OOOOOOOOOOOOOO        SSSSSSSSSSSSS0S
+BBBBBBBBBBBB          GGGGGGGGGGGGG                     DDDDDDDDDDDDDDD           O00000000000          SSSSSSSSSSSSS
